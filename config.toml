@@ -1,0 +1,49 @@
+baseURL         = "https://tlaurens.xyz/"
+languageCode    = "en-us"
+title           = "Thibault Laurens"
+theme           = "hello-friend-ng"
+
+enableRobotsTXT = true
+copyright       = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[author]
+  name = "Thibault Laurens"
+
+[params]
+  homeSubtitle = "Software Engineer"
+  defaultTheme = "dark"
+
+  [params.logo]
+    logoText        = "tlaurens $ "
+    logoHomeLink    = "/"
+    logoCursorColor = "#5EC4FF"
+
+  [[menu.main]]
+    identifier = "35mm"
+    name       = "35mm"
+    url        = "https://35mm.tlaurens.xyz/"
+
+  [[menu.main]]
+    identifier = "mazamet"
+    name       = "70's"
+    url        = "https://70s.tlaurens.xyz/"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:thibault.laurens@pm.me"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/thibaultlaurens"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/thibaultlaurens"
+
+  [[params.social]]
+    name = "keybase"
+    url  = "https://keybase.io/thibaultlaurens"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://www.instagram.com/thibaultlaurens"
