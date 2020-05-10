@@ -27,11 +27,6 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
     name       = "35mm"
     url        = "https://35mm.tlaurens.xyz/"
 
-  [[menu.main]]
-    identifier = "mazamet"
-    name       = "70's"
-    url        = "https://70s.tlaurens.xyz/"
-
   [[params.social]]
     name = "email"
     url  = "mailto:thibault.laurens@pm.me"
