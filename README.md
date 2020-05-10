@@ -1,5 +1,7 @@
 # tlaurens.xyz
 
+![Deploy](https://github.com/thibaultlaurens/tlaurens.xyz/workflows/Deploy/badge.svg?branch=master)
+
 Repo for [tlaurens.xyz](https://tlaurens.xyz), a static website built with [Hugo](https://gohugo.io/) and hosted on [Github Pages](https://pages.github.com/)
 
 Development:
