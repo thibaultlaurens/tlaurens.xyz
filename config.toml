@@ -3,8 +3,12 @@ languageCode    = "en-us"
 title           = "Thibault Laurens"
 theme           = "hello-friend-ng"
 
-enableRobotsTXT = true
-copyright       = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+cleanDestinationDir = true
+noChmod             = true
+noTime              = true
+enableRobotsTXT     = true
+
+copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [author]
   name = "Thibault Laurens"
