@@ -14,6 +14,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
 [params]
   homeSubtitle = "Software Engineer"
   defaultTheme = "dark"
+  customCSS = ["css/custom.css"]
 
   [params.logo]
     logoText        = "tlaurens $ "

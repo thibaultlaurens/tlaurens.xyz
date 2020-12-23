@@ -1,0 +1,9 @@
+/*increase header width from theme's 760px*/
+.header__inner {
+  width: 960px;
+}
+
+/*increase footer width from theme's 760px*/
+.footer__inner {
+  width: 960px;
+}
