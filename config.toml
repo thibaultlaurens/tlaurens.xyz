@@ -12,7 +12,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
   name = "Thibault Laurens"
 
 [params]
-  homeSubtitle = "Software Engineer"
+  homeSubtitle = "Software Engineering - Cloud Security"
   defaultTheme = "dark"
   customCSS = ["css/custom.css"]
 
